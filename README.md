@@ -1,4 +1,4 @@
-# MicroPay-Hackathon
+# ChaChing
 ## Problem Statement
 In recent times, we are seeing a wave of Buy Now Pay Later services provided by several banks .
 Along with that we have also seen the rise of Blockchain in Decentralized finance sector.
@@ -24,7 +24,7 @@ Moreover, for the service providers do not hold a collateral from the user hence
 - The users don’t have to depend on a centralised banking institution to provide a credit score,
 The credibility check is done by the lenders themselves by going through the previous transaction histories.
 
-- It would prevent people falling into quick loan scams carried out by some apps where the borrowers are harassed by imposing unrealistic interest rates. MicroPay, being decentralized everything is controlled by the smart contracts in a transparent immutable way.
+- It would prevent people falling into quick loan scams carried out by some apps where the borrowers are harassed by imposing unrealistic interest rates.ChaChing, being decentralized everything is controlled by the smart contracts in a transparent immutable way.
 
 ## Tech Stack :
 HTML, CSS, web3js, Solidity
@@ -35,5 +35,5 @@ HTML, CSS, web3js, Solidity
 - Create a more secure and inbuilt KYC service which will store and will also be capable of creating a consortium of similar services so that users dont have to do KYC over and over again while opting for another service.
 The eKYC API will be provided to other companies as a subscription based service.
 
-- Make a crosschain Payment gateway for web3 marketplaces, hence converting MicroPay from just a Micro-lending platform to a web3 Payments Bank.
+- Make a crosschain Payment gateway for web3 marketplaces, hence converting ChaChing from just a Micro-lending platform to a web3 Payments Bank.
 
